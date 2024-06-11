@@ -84,7 +84,7 @@ nav > *:hover{
 }
 
 .elem i {
-    font-size: 25px;
+    font-size: 1vw;
     font-weight: 500;
     opacity: 0;
 }
